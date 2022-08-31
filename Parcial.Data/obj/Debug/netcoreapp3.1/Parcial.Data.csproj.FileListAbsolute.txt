@@ -1,0 +1,13 @@
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\bin\Debug\netcoreapp3.1\Parcial.Data.deps.json
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\bin\Debug\netcoreapp3.1\Parcial.Data.dll
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\bin\Debug\netcoreapp3.1\Parcial.Data.pdb
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\bin\Debug\netcoreapp3.1\Parcial.Dominio.dll
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\bin\Debug\netcoreapp3.1\Parcial.Dominio.pdb
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.csproj.AssemblyReference.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.AssemblyInfoInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.AssemblyInfo.cs
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.csproj.CoreCompileInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.csproj.CopyComplete
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.dll
+C:\Users\LUHER\source\repos\Parcial\Parcial.Data\obj\Debug\netcoreapp3.1\Parcial.Data.pdb

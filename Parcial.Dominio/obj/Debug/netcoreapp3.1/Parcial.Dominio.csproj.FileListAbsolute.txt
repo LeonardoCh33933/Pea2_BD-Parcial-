@@ -1,0 +1,10 @@
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\bin\Debug\netcoreapp3.1\Parcial.Dominio.deps.json
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\bin\Debug\netcoreapp3.1\Parcial.Dominio.dll
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\bin\Debug\netcoreapp3.1\Parcial.Dominio.pdb
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.csproj.AssemblyReference.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.AssemblyInfoInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.AssemblyInfo.cs
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.dll
+C:\Users\LUHER\source\repos\Parcial\Parcial.Dominio\obj\Debug\netcoreapp3.1\Parcial.Dominio.pdb

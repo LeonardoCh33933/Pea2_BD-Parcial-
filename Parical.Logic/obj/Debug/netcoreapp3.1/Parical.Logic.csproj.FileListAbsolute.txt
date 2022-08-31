@@ -1,0 +1,15 @@
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parical.Logic.deps.json
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parical.Logic.dll
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parical.Logic.pdb
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parcial.Data.dll
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parcial.Dominio.dll
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parcial.Data.pdb
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\bin\Debug\netcoreapp3.1\Parcial.Dominio.pdb
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.csproj.AssemblyReference.cache
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.AssemblyInfoInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.AssemblyInfo.cs
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.csproj.CoreCompileInputs.cache
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.csproj.CopyComplete
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.dll
+C:\Users\LUHER\source\repos\Parcial\Parical.Logic\obj\Debug\netcoreapp3.1\Parical.Logic.pdb

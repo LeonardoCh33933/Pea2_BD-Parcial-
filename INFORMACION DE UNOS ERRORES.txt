@@ -1,0 +1,4 @@
+Al colocar los precios y stock no permitidos, me sale el mismo MessageBox de
+"Registrado con exito" :(, pero igualmente no lo llega a mostrar en el datagridview al parecer. 
+
+Y no llege a solucionarlo.
